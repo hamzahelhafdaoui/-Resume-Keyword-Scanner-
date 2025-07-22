@@ -1,0 +1,3 @@
+We are looking for a skilled Data Analyst with experience in SQL, Excel, and Power BI. 
+The ideal candidate should be proficient in building dashboards, automating reports, and performing data cleaning. 
+Strong communication and collaboration skills are required. Experience with Python and MySQL is a plus.
